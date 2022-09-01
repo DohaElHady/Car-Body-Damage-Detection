@@ -10,7 +10,7 @@ The dataset consists of:
 
 ## Structure
 ```
-Dataset
+carDamageDataset
 |
 |_ images
     |
