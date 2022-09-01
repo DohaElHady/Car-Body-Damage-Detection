@@ -12,7 +12,7 @@ This project detects damage on the car body using the state-of-the-art [YOLOv5](
 
 ## Repo Content
   1. Custom Labeled Dataset
-  2. Train Notebook
+  2. Train Notebook Colab Link
   3. YOLOv5 .yaml File
   4. Results
 
