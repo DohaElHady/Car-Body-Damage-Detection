@@ -1,3 +1,5 @@
+![Results](https://github.com/DohaElHady/CarBodyDamageDetection/blob/main/Results/PredResults.png)
+
 Stopping training early as no improvement observed in last 100 epochs. Best results observed at epoch 22, best model saved as best.pt.
 
 123 epochs completed in 0.387 hours.
