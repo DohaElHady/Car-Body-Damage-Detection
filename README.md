@@ -14,6 +14,7 @@ This project detects damage on the car body using the state-of-the-art [YOLOv5](
   1. Custom Labeled Dataset
   2. Train Notebook
   3. YOLOv5 .yaml File
+  4. Results
 
 ## Train YOLOv5 on Custom Data
 You can train YOLOv5 on your custom images through these steps:
