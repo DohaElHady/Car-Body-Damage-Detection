@@ -4,9 +4,8 @@ The data was labeled manually via [VOTT](https://vott.z22.web.core.windows.net).
 
 ## Content
 The dataset consists of:
-  1. Train set: 80 images
-  2. Validation set: 10 images
-  3. Test set: 10 images
+  1. Train set: 90 images
+  2. Test set: 10 images
 
 ## Structure
 ```
@@ -17,9 +16,6 @@ carDamageDataset
     |_ train 
         |_ .jpg/.JPEG train images
     |
-    |_ val 
-        |_ .jpg/.JPEG validation images
-    |
     |_ test 
         |_ .jpg/.JPEG test images
 |
@@ -27,9 +23,6 @@ carDamageDataset
     |
     |_ train 
         |_ .txt train images labels
-    |
-    |_ val 
-        |_ .txt validation images labels
     |
     |_ test 
         |_ .txt test images labels
