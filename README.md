@@ -22,7 +22,7 @@ You can train YOLOv5 on your custom images through these steps:
 
   1. Place all the dataset images in one folder.
   2. Download [VOTT](https://github.com/microsoft/VoTT).
-  3. Follow the [Annotations README.md](https://github.com/DohaElHady/CarBodyDamageDetection/blob/main/Annotations/README.md).
+  3. Follow the [Annotations README.md](https://github.com/DohaElHady/CarBodyDamageDetection/blob/main/Annotations/annotations.md).
   4. Set the dataset structure in [Dataset README.md](https://github.com/DohaElHady/CarBodyDamageDetection/blob/main/Dataset/README.md).
   5. Upload file to either Github or Google Drive.
   6. Clone the file to the Notebook.
